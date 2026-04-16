@@ -84,4 +84,4 @@ Os comprimentos de cada circuito são exibidos na legenda da janela.
 |-----------|------------------:|-------------------:|
 | tsp10     | 1566.1363         | 1655.7462          |
 
-> Link do vídeo explicativo: *(a preencher)*
+[Assista à apresentação do projeto aqui]("https://www.youtube.com/watch?v=ppAPmURW3DQ")
